@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="mailto:alan2007lf@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alan2007lf@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/alan-francisco-lacán-flores-173750421/">
