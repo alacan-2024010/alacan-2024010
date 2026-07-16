@@ -77,15 +77,13 @@
 <div align="center">
 
 <a href="mailto:alan2007lf@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/alan-francisco-lacán-flores-173750421/">
-<img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/2211alan">
-<img src="https://img.shields.io/badge/Instagram-0EA5E9?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-0EA5E9?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -98,6 +96,6 @@
 
 <i>"Por más alta que parezca la montaña, siempre hay un camino hacia la cima."</i>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0369A1&height=120&section=footer&text=¡Gracias%20por%20visitar!&fontSize=18&fontColor=ffffff&fontAlignY=70"/>
+</div>
