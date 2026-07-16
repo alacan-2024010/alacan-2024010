@@ -94,9 +94,9 @@
 
 <div align="center">
 
-## 💬 Filosofía
+### 💬 Filosofía
 
-> *"Por más alta que parezca la montaña, siempre hay un camino hacia la cima."*
+<i>"Por más alta que parezca la montaña, siempre hay un camino hacia la cima."</i>
 
 </div>
 
