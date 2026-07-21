@@ -1,0 +1,197 @@
+<svg width="100%" viewBox="0 0 1200 638" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="skbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1a1035"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+<rect x="1" y="1" width="1198" height="636" rx="20" fill="url(#skbg)" stroke="#2b2450" stroke-width="1.5"/>
+<text x="24" y="42" font-family="Segoe UI, sans-serif" font-size="22" font-weight="800" fill="url(#titleGrad)">Nivel de dominio</text>
+<text x="1176" y="42" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="13" fill="#64748B">basado en mi portafolio</text>
+<linearGradient id="grad0" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f89820" stop-opacity="0.55"/><stop offset="100%" stop-color="#f89820"/></linearGradient>
+<rect x="24.0" y="64.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#f89820" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="24.0" y="64.0" width="4" height="118" rx="2" fill="#f89820"/>
+<circle cx="64.0" cy="104.0" r="24" fill="#f89820" fill-opacity="0.16" stroke="#f89820" stroke-width="1.6"/>
+<text x="64.0" y="109.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#f89820">JV</text>
+<text x="102.0" y="98.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">Java</text>
+<text x="282.5" y="98.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#f89820">85%</text>
+<rect x="102.0" y="114.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="102.0" y="114.0" width="153.4" height="9" rx="4.5" fill="url(#grad0)"/>
+<circle cx="102.0" cy="162.0" r="3" fill="#f89820" fill-opacity="1"/>
+<circle cx="116.0" cy="162.0" r="3" fill="#f89820" fill-opacity="1"/>
+<circle cx="130.0" cy="162.0" r="3" fill="#f89820" fill-opacity="1"/>
+<circle cx="144.0" cy="162.0" r="3" fill="#f89820" fill-opacity="1"/>
+<circle cx="158.0" cy="162.0" r="3" fill="#f89820" fill-opacity="0.25"/>
+<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f7df1e" stop-opacity="0.55"/><stop offset="100%" stop-color="#f7df1e"/></linearGradient>
+<rect x="316.5" y="64.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#f7df1e" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="316.5" y="64.0" width="4" height="118" rx="2" fill="#f7df1e"/>
+<circle cx="356.5" cy="104.0" r="24" fill="#f7df1e" fill-opacity="0.16" stroke="#f7df1e" stroke-width="1.6"/>
+<text x="356.5" y="109.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#f7df1e">JS</text>
+<text x="394.5" y="98.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">JavaScript</text>
+<text x="575.0" y="98.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#f7df1e">88%</text>
+<rect x="394.5" y="114.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="394.5" y="114.0" width="158.8" height="9" rx="4.5" fill="url(#grad1)"/>
+<circle cx="394.5" cy="162.0" r="3" fill="#f7df1e" fill-opacity="1"/>
+<circle cx="408.5" cy="162.0" r="3" fill="#f7df1e" fill-opacity="1"/>
+<circle cx="422.5" cy="162.0" r="3" fill="#f7df1e" fill-opacity="1"/>
+<circle cx="436.5" cy="162.0" r="3" fill="#f7df1e" fill-opacity="1"/>
+<circle cx="450.5" cy="162.0" r="3" fill="#f7df1e" fill-opacity="0.25"/>
+<linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4479a1" stop-opacity="0.55"/><stop offset="100%" stop-color="#4479a1"/></linearGradient>
+<rect x="609.0" y="64.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#4479a1" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="609.0" y="64.0" width="4" height="118" rx="2" fill="#4479a1"/>
+<circle cx="649.0" cy="104.0" r="24" fill="#4479a1" fill-opacity="0.16" stroke="#4479a1" stroke-width="1.6"/>
+<text x="649.0" y="109.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="11" font-weight="800" fill="#4479a1">SQL</text>
+<text x="687.0" y="98.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">MySQL</text>
+<text x="867.5" y="98.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#4479a1">82%</text>
+<rect x="687.0" y="114.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="687.0" y="114.0" width="148.0" height="9" rx="4.5" fill="url(#grad2)"/>
+<circle cx="687.0" cy="162.0" r="3" fill="#4479a1" fill-opacity="1"/>
+<circle cx="701.0" cy="162.0" r="3" fill="#4479a1" fill-opacity="1"/>
+<circle cx="715.0" cy="162.0" r="3" fill="#4479a1" fill-opacity="1"/>
+<circle cx="729.0" cy="162.0" r="3" fill="#4479a1" fill-opacity="1"/>
+<circle cx="743.0" cy="162.0" r="3" fill="#4479a1" fill-opacity="0.25"/>
+<linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#47a248" stop-opacity="0.55"/><stop offset="100%" stop-color="#47a248"/></linearGradient>
+<rect x="901.5" y="64.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#47a248" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="901.5" y="64.0" width="4" height="118" rx="2" fill="#47a248"/>
+<circle cx="941.5" cy="104.0" r="24" fill="#47a248" fill-opacity="0.16" stroke="#47a248" stroke-width="1.6"/>
+<text x="941.5" y="109.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#47a248">MO</text>
+<text x="979.5" y="98.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">MongoDB</text>
+<text x="1160.0" y="98.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#47a248">75%</text>
+<rect x="979.5" y="114.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="979.5" y="114.0" width="135.4" height="9" rx="4.5" fill="url(#grad3)"/>
+<circle cx="979.5" cy="162.0" r="3" fill="#47a248" fill-opacity="1"/>
+<circle cx="993.5" cy="162.0" r="3" fill="#47a248" fill-opacity="1"/>
+<circle cx="1007.5" cy="162.0" r="3" fill="#47a248" fill-opacity="1"/>
+<circle cx="1021.5" cy="162.0" r="3" fill="#47a248" fill-opacity="1"/>
+<circle cx="1035.5" cy="162.0" r="3" fill="#47a248" fill-opacity="0.25"/>
+<linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#336791" stop-opacity="0.55"/><stop offset="100%" stop-color="#336791"/></linearGradient>
+<rect x="24.0" y="200.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#336791" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="24.0" y="200.0" width="4" height="118" rx="2" fill="#336791"/>
+<circle cx="64.0" cy="240.0" r="24" fill="#336791" fill-opacity="0.16" stroke="#336791" stroke-width="1.6"/>
+<text x="64.0" y="245.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#336791">PG</text>
+<text x="102.0" y="234.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">PostgreSQL</text>
+<text x="282.5" y="234.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#336791">75%</text>
+<rect x="102.0" y="250.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="102.0" y="250.0" width="135.4" height="9" rx="4.5" fill="url(#grad4)"/>
+<circle cx="102.0" cy="298.0" r="3" fill="#336791" fill-opacity="1"/>
+<circle cx="116.0" cy="298.0" r="3" fill="#336791" fill-opacity="1"/>
+<circle cx="130.0" cy="298.0" r="3" fill="#336791" fill-opacity="1"/>
+<circle cx="144.0" cy="298.0" r="3" fill="#336791" fill-opacity="1"/>
+<circle cx="158.0" cy="298.0" r="3" fill="#336791" fill-opacity="0.25"/>
+<linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#e34f26" stop-opacity="0.55"/><stop offset="100%" stop-color="#e34f26"/></linearGradient>
+<rect x="316.5" y="200.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#e34f26" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="316.5" y="200.0" width="4" height="118" rx="2" fill="#e34f26"/>
+<circle cx="356.5" cy="240.0" r="24" fill="#e34f26" fill-opacity="0.16" stroke="#e34f26" stroke-width="1.6"/>
+<text x="356.5" y="245.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="11" font-weight="800" fill="#e34f26">&lt;/&gt;</text>
+<text x="394.5" y="234.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">HTML</text>
+<text x="575.0" y="234.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#e34f26">92%</text>
+<rect x="394.5" y="250.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="394.5" y="250.0" width="166.1" height="9" rx="4.5" fill="url(#grad5)"/>
+<circle cx="394.5" cy="298.0" r="3" fill="#e34f26" fill-opacity="1"/>
+<circle cx="408.5" cy="298.0" r="3" fill="#e34f26" fill-opacity="1"/>
+<circle cx="422.5" cy="298.0" r="3" fill="#e34f26" fill-opacity="1"/>
+<circle cx="436.5" cy="298.0" r="3" fill="#e34f26" fill-opacity="1"/>
+<circle cx="450.5" cy="298.0" r="3" fill="#e34f26" fill-opacity="1"/>
+<linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#1572b6" stop-opacity="0.55"/><stop offset="100%" stop-color="#1572b6"/></linearGradient>
+<rect x="609.0" y="200.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#1572b6" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="609.0" y="200.0" width="4" height="118" rx="2" fill="#1572b6"/>
+<circle cx="649.0" cy="240.0" r="24" fill="#1572b6" fill-opacity="0.16" stroke="#1572b6" stroke-width="1.6"/>
+<text x="649.0" y="245.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#1572b6">#</text>
+<text x="687.0" y="234.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">CSS</text>
+<text x="867.5" y="234.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#1572b6">88%</text>
+<rect x="687.0" y="250.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="687.0" y="250.0" width="158.8" height="9" rx="4.5" fill="url(#grad6)"/>
+<circle cx="687.0" cy="298.0" r="3" fill="#1572b6" fill-opacity="1"/>
+<circle cx="701.0" cy="298.0" r="3" fill="#1572b6" fill-opacity="1"/>
+<circle cx="715.0" cy="298.0" r="3" fill="#1572b6" fill-opacity="1"/>
+<circle cx="729.0" cy="298.0" r="3" fill="#1572b6" fill-opacity="1"/>
+<circle cx="743.0" cy="298.0" r="3" fill="#1572b6" fill-opacity="0.25"/>
+<linearGradient id="grad7" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#339933" stop-opacity="0.55"/><stop offset="100%" stop-color="#339933"/></linearGradient>
+<rect x="901.5" y="200.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#339933" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="901.5" y="200.0" width="4" height="118" rx="2" fill="#339933"/>
+<circle cx="941.5" cy="240.0" r="24" fill="#339933" fill-opacity="0.16" stroke="#339933" stroke-width="1.6"/>
+<text x="941.5" y="245.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#339933">ND</text>
+<text x="979.5" y="234.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">Node.js</text>
+<text x="1160.0" y="234.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#339933">80%</text>
+<rect x="979.5" y="250.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="979.5" y="250.0" width="144.4" height="9" rx="4.5" fill="url(#grad7)"/>
+<circle cx="979.5" cy="298.0" r="3" fill="#339933" fill-opacity="1"/>
+<circle cx="993.5" cy="298.0" r="3" fill="#339933" fill-opacity="1"/>
+<circle cx="1007.5" cy="298.0" r="3" fill="#339933" fill-opacity="1"/>
+<circle cx="1021.5" cy="298.0" r="3" fill="#339933" fill-opacity="1"/>
+<circle cx="1035.5" cy="298.0" r="3" fill="#339933" fill-opacity="0.25"/>
+<linearGradient id="grad8" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8a5cf6" stop-opacity="0.55"/><stop offset="100%" stop-color="#8a5cf6"/></linearGradient>
+<rect x="24.0" y="336.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#8a5cf6" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="24.0" y="336.0" width="4" height="118" rx="2" fill="#8a5cf6"/>
+<circle cx="64.0" cy="376.0" r="24" fill="#8a5cf6" fill-opacity="0.16" stroke="#8a5cf6" stroke-width="1.6"/>
+<text x="64.0" y="381.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#8a5cf6">.N</text>
+<text x="102.0" y="370.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">.NET</text>
+<text x="282.5" y="370.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#8a5cf6">70%</text>
+<rect x="102.0" y="386.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="102.0" y="386.0" width="126.3" height="9" rx="4.5" fill="url(#grad8)"/>
+<circle cx="102.0" cy="434.0" r="3" fill="#8a5cf6" fill-opacity="1"/>
+<circle cx="116.0" cy="434.0" r="3" fill="#8a5cf6" fill-opacity="1"/>
+<circle cx="130.0" cy="434.0" r="3" fill="#8a5cf6" fill-opacity="1"/>
+<circle cx="144.0" cy="434.0" r="3" fill="#8a5cf6" fill-opacity="1"/>
+<circle cx="158.0" cy="434.0" r="3" fill="#8a5cf6" fill-opacity="0.25"/>
+<linearGradient id="grad9" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#2496ed" stop-opacity="0.55"/><stop offset="100%" stop-color="#2496ed"/></linearGradient>
+<rect x="316.5" y="336.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#2496ed" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="316.5" y="336.0" width="4" height="118" rx="2" fill="#2496ed"/>
+<circle cx="356.5" cy="376.0" r="24" fill="#2496ed" fill-opacity="0.16" stroke="#2496ed" stroke-width="1.6"/>
+<text x="356.5" y="381.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#2496ed">DK</text>
+<text x="394.5" y="370.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">Docker</text>
+<text x="575.0" y="370.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#2496ed">68%</text>
+<rect x="394.5" y="386.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="394.5" y="386.0" width="122.7" height="9" rx="4.5" fill="url(#grad9)"/>
+<circle cx="394.5" cy="434.0" r="3" fill="#2496ed" fill-opacity="1"/>
+<circle cx="408.5" cy="434.0" r="3" fill="#2496ed" fill-opacity="1"/>
+<circle cx="422.5" cy="434.0" r="3" fill="#2496ed" fill-opacity="1"/>
+<circle cx="436.5" cy="434.0" r="3" fill="#2496ed" fill-opacity="0.25"/>
+<circle cx="450.5" cy="434.0" r="3" fill="#2496ed" fill-opacity="0.25"/>
+<linearGradient id="grad10" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#3fa53f" stop-opacity="0.55"/><stop offset="100%" stop-color="#3fa53f"/></linearGradient>
+<rect x="609.0" y="336.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#3fa53f" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="609.0" y="336.0" width="4" height="118" rx="2" fill="#3fa53f"/>
+<circle cx="649.0" cy="376.0" r="24" fill="#3fa53f" fill-opacity="0.16" stroke="#3fa53f" stroke-width="1.6"/>
+<text x="649.0" y="381.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#3fa53f">C#</text>
+<text x="687.0" y="370.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">C#</text>
+<text x="867.5" y="370.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#3fa53f">72%</text>
+<rect x="687.0" y="386.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="687.0" y="386.0" width="130.0" height="9" rx="4.5" fill="url(#grad10)"/>
+<circle cx="687.0" cy="434.0" r="3" fill="#3fa53f" fill-opacity="1"/>
+<circle cx="701.0" cy="434.0" r="3" fill="#3fa53f" fill-opacity="1"/>
+<circle cx="715.0" cy="434.0" r="3" fill="#3fa53f" fill-opacity="1"/>
+<circle cx="729.0" cy="434.0" r="3" fill="#3fa53f" fill-opacity="1"/>
+<circle cx="743.0" cy="434.0" r="3" fill="#3fa53f" fill-opacity="0.25"/>
+<linearGradient id="grad11" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#61dafb" stop-opacity="0.55"/><stop offset="100%" stop-color="#61dafb"/></linearGradient>
+<rect x="901.5" y="336.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#61dafb" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="901.5" y="336.0" width="4" height="118" rx="2" fill="#61dafb"/>
+<circle cx="941.5" cy="376.0" r="24" fill="#61dafb" fill-opacity="0.16" stroke="#61dafb" stroke-width="1.6"/>
+<text x="941.5" y="381.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#61dafb">RX</text>
+<text x="979.5" y="370.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">React / JSX</text>
+<text x="1160.0" y="370.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#61dafb">85%</text>
+<rect x="979.5" y="386.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="979.5" y="386.0" width="153.4" height="9" rx="4.5" fill="url(#grad11)"/>
+<circle cx="979.5" cy="434.0" r="3" fill="#61dafb" fill-opacity="1"/>
+<circle cx="993.5" cy="434.0" r="3" fill="#61dafb" fill-opacity="1"/>
+<circle cx="1007.5" cy="434.0" r="3" fill="#61dafb" fill-opacity="1"/>
+<circle cx="1021.5" cy="434.0" r="3" fill="#61dafb" fill-opacity="1"/>
+<circle cx="1035.5" cy="434.0" r="3" fill="#61dafb" fill-opacity="0.25"/>
+<linearGradient id="grad12" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6db33f" stop-opacity="0.55"/><stop offset="100%" stop-color="#6db33f"/></linearGradient>
+<rect x="24.0" y="472.0" width="274.5" height="118" rx="14" fill="#0d1526" stroke="#6db33f" stroke-opacity="0.35" stroke-width="1.3"/>
+<rect x="24.0" y="472.0" width="4" height="118" rx="2" fill="#6db33f"/>
+<circle cx="64.0" cy="512.0" r="24" fill="#6db33f" fill-opacity="0.16" stroke="#6db33f" stroke-width="1.6"/>
+<text x="64.0" y="517.0" text-anchor="middle" font-family="Segoe UI, monospace" font-size="15" font-weight="800" fill="#6db33f">SB</text>
+<text x="102.0" y="506.0" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#F1F5F9">Spring Boot</text>
+<text x="282.5" y="506.0" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#6db33f">70%</text>
+<rect x="102.0" y="522.0" width="180.5" height="9" rx="4.5" fill="#1E293B"/>
+<rect x="102.0" y="522.0" width="126.3" height="9" rx="4.5" fill="url(#grad12)"/>
+<circle cx="102.0" cy="570.0" r="3" fill="#6db33f" fill-opacity="1"/>
+<circle cx="116.0" cy="570.0" r="3" fill="#6db33f" fill-opacity="1"/>
+<circle cx="130.0" cy="570.0" r="3" fill="#6db33f" fill-opacity="1"/>
+<circle cx="144.0" cy="570.0" r="3" fill="#6db33f" fill-opacity="1"/>
+<circle cx="158.0" cy="570.0" r="3" fill="#6db33f" fill-opacity="0.25"/>
+</svg>

@@ -2,11 +2,6 @@
 
 <img src="./assets/header.svg" width="100%" alt="Alan Lacán Flores — Backend Developer"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Guatemala-🇬🇹-7C3AED?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=alacan-2024010&label=Visitas&color=10B981&style=flat-square"/>
-
 </div>
 
 <br><br>
@@ -15,11 +10,25 @@
 
 <br>
 
-> No me interesa solo que la pantalla se vea bien. Me interesa lo que pasa detrás: cómo se autentica un usuario, cómo se ordenan los datos, y cómo conversan los servicios entre sí.
+<div align="center">
+<img src="./assets/quote-card.svg" width="100%" alt="Presentación"/>
+</div>
 
-Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en **Backend Development** y en entender el sistema completo: interfaces en React, servicios en Node.js/Spring Boot, y los datos que los sostienen en PostgreSQL y MongoDB. Aprendiendo constantemente Docker y buenas prácticas de arquitectura, con la mira puesta en la práctica supervisada 2026 en **EMPAGUA**.
+<br>
 
-`Backend Dev` `Autodidacta` `Full Stack Junior` `Clean Code`
+Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en entender el sistema completo: interfaces en React, servicios en Node.js/Spring Boot, y los datos que los sostienen en PostgreSQL y MongoDB. Aprendiendo constantemente Docker y buenas prácticas de arquitectura, con la mira puesta en la práctica supervisada 2026 en **EMPAGUA**.
+
+<div align="center">
+
+<img src="./assets/tags-row.svg" alt="Backend Dev · Autodidacta · Full Stack Junior · Clean Code"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assets/milestones.svg" width="100%" alt="Trayectoria"/>
+</div>
 
 <br><br>
 
@@ -51,39 +60,95 @@ Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en **Back
 
 <br><br>
 
+<div align="center">
+<img src="./assets/skills-levels.svg" width="100%" alt="Nivel de dominio"/>
+</div>
+
+<br><br>
+
 <img src="./assets/banner-proyectos.svg" width="100%" alt="Proyectos"/>
 
 <br>
 
-**KinalBank** &nbsp; `en equipo`
-<br>
-Sistema bancario con gestión de cuentas y transacciones, con manejo de roles y persistencia relacional/no relacional trabajando en conjunto.
-<br>
-`React` `Node.js` `MongoDB` `PostgreSQL` — [repositorio ↗](https://github.com/alacan-2024010)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="72" valign="top"><img src="./assets/icon-kinalbank.svg" width="60"/></td>
+<td valign="top">
 
+**KinalBank** &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
 <br>
+<sub>Sistema bancario con gestión de cuentas y transacciones, manejo de roles y persistencia relacional/no relacional trabajando en conjunto.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/React-0d1526?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0d1526?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0d1526?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1526?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<br><br>
+**[→ Ver repositorio](https://github.com/alacan-2024010)**
 
-**KinalGourmetHouse** &nbsp; `en equipo`
-<br>
-Plataforma de pedidos y administración para restaurante, con API REST propia y separación clara entre cliente, servidor y capa de datos.
-<br>
-`React` `Node.js` `MongoDB` `PostgreSQL` — [repositorio ↗](https://github.com/alacan-2024010)
+</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="72" valign="top"><img src="./assets/icon-gourmet.svg" width="60"/></td>
+<td valign="top">
 
+**KinalGourmetHouse** &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
 <br>
+<sub>Plataforma de pedidos y administración para restaurante, con API REST propia y separación clara entre cliente, servidor y capa de datos.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/React-0d1526?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0d1526?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0d1526?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1526?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<br><br>
+**[→ Ver repositorio](https://github.com/alacan-2024010)**
 
-**EcoApp** &nbsp; `en equipo`
-<br>
-Aplicación orientada a sostenibilidad y hábitos eco-friendly, desarrollada en equipo con foco en experiencia de usuario y datos persistentes.
-<br>
-`React` `Node.js` `MongoDB` `PostgreSQL` — [repositorio ↗](https://github.com/alacan-2024010)
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td colspan="2" height="20"></td></tr>
+<tr>
+<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="72" valign="top"><img src="./assets/icon-ecoapp.svg" width="60"/></td>
+<td valign="top">
 
+**EcoApp** &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
 <br>
+<sub>Aplicación orientada a sostenibilidad y hábitos eco-friendly, con foco en experiencia de usuario y datos persistentes.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/React-0d1526?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0d1526?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0d1526?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1526?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<br><br>
+**[→ Ver repositorio](https://github.com/alacan-2024010)**
 
-**Huellitas S.A.** &nbsp; `individual`
+</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="72" valign="top"><img src="./assets/icon-huellitas.svg" width="60"/></td>
+<td valign="top">
+
+**Huellitas S.A.** &nbsp;<img src="https://img.shields.io/badge/individual-10B981?style=flat-square"/>
 <br>
-Sistema de gestión con generación de reportes dinámicos, desarrollado en escritorio con enfoque en persistencia y documentos exportables.
-<br>
-`JavaFX` `JasperReports` `MySQL` — [repositorio ↗](https://github.com/alacan-2024010)
+<sub>Sistema de gestión de escritorio con generación de reportes dinámicos, enfocado en persistencia y documentos exportables.</sub>
+<br><br>
+<img src="./assets/badge-javafx.svg"/> <img src="./assets/badge-jasperreports.svg"/> <img src="https://img.shields.io/badge/MySQL-0d1526?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<br><br>
+**[→ Ver repositorio](https://github.com/alacan-2024010)**
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 <br><br>
 
@@ -119,9 +184,11 @@ Certificación de nivel estudiante que valida competencias en selección e insta
 
 <br><br>
 
-<div align="center">
+<img src="./assets/banner-conecta.svg" width="100%" alt="Conecta conmigo"/>
 
-### Conecta conmigo
+<br>
+
+<div align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alan2007lf@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -135,6 +202,10 @@ Certificación de nivel estudiante que valida competencias en selección e insta
 
 <br><br>
 
-<sub>"Por más alta que parezca la montaña, siempre hay un camino hacia la cima."</sub>
+<br><br>
+
+<div align="center">
+<img src="./assets/footer-quote.svg" width="70%" alt="Cita final"/>
+</div>
 
 </div>

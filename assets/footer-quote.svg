@@ -1,0 +1,50 @@
+<svg width="100%" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fqbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1a1035"/>
+    </linearGradient>
+    <linearGradient id="fqBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="fqMark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="fqGlowL" cx="0%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fqGlowR" cx="100%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="166" rx="20" fill="url(#fqbg)"/>
+  <rect x="2" y="2" width="1196" height="166" rx="20" fill="url(#fqGlowL)"/>
+  <rect x="2" y="2" width="1196" height="166" rx="20" fill="url(#fqGlowR)"/>
+  <rect x="2" y="2" width="1196" height="166" rx="20" fill="none" stroke="url(#fqBorder)" stroke-opacity="0.55" stroke-width="1.6"/>
+
+  <!-- top divider ornament -->
+  <line x1="500" y1="32" x2="562" y2="32" stroke="url(#fqBorder)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="600" cy="32" r="4" fill="#34D399"/>
+  <line x1="638" y1="32" x2="700" y2="32" stroke="url(#fqBorder)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- quote glyph -->
+  <text x="70" y="118" font-family="Georgia, serif" font-size="90" fill="url(#fqMark)" fill-opacity="0.9" font-weight="700">&#8220;</text>
+  <text x="1090" y="150" font-family="Georgia, serif" font-size="90" fill="url(#fqMark)" fill-opacity="0.9" font-weight="700">&#8221;</text>
+
+  <!-- quote text -->
+  <text x="600" y="90" text-anchor="middle" font-family="Georgia, 'Segoe UI', serif" font-size="21" font-style="italic" fill="#E2E8F0">
+    Por más alta que parezca la montaña,
+  </text>
+  <text x="600" y="122" text-anchor="middle" font-family="Georgia, 'Segoe UI', serif" font-size="21" font-style="italic" fill="#F1F5F9" font-weight="600">
+    siempre hay un camino hacia la cima.
+  </text>
+
+  <!-- bottom small signature line -->
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" letter-spacing="2" fill="#64748B">— ALAN LACÁN FLORES</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="100%" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1a1035"/>
+    </linearGradient>
+    <linearGradient id="qGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="qMarkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="258" rx="20" fill="url(#qbg)" stroke="#2b2450" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="258" rx="20" fill="url(#qGlow)"/>
+
+  <!-- opening quote mark -->
+  <text x="46" y="120" font-family="Georgia, serif" font-size="130" fill="url(#qMarkGrad)" fill-opacity="0.85" font-weight="700">&#8220;</text>
+
+  <!-- closing quote mark -->
+  <text x="1080" y="250" font-family="Georgia, serif" font-size="130" fill="url(#qMarkGrad)" fill-opacity="0.85" font-weight="700">&#8221;</text>
+
+  <!-- text lines -->
+  <g font-family="Segoe UI, sans-serif" text-anchor="middle">
+    <text x="600" y="90" font-size="26" font-weight="700" fill="#F1F5F9">
+      Soy Alan, desarrollador <tspan fill="#A78BFA">Junior Full Stack</tspan>
+    </text>
+    <text x="600" y="128" font-size="26" font-weight="700" fill="#F1F5F9">
+      con enfoque en <tspan fill="#34D399">Backend</tspan>.
+    </text>
+    <text x="600" y="172" font-size="18" fill="#CBD5E1">
+      Soy perseverante: no me rindo fácil ante un problema hasta resolverlo.
+    </text>
+    <text x="600" y="200" font-size="18" fill="#CBD5E1">
+      Como programador sé que <tspan fill="#A78BFA" font-weight="600">nunca se deja de aprender</tspan>,
+    </text>
+    <text x="600" y="228" font-size="18" fill="#CBD5E1">
+      y esa es la razón por la que sigo creciendo cada día.
+    </text>
+  </g>
+</svg>

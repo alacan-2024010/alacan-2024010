@@ -1,0 +1,13 @@
+<svg width="86" height="20" viewBox="0 0 86 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="jfxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F58219"/>
+      <stop offset="100%" stop-color="#EA2D2E"/>
+    </linearGradient>
+  </defs>
+  <rect width="86" height="20" rx="3" fill="#0d1526"/>
+  <!-- simplified openjfx diamond mark -->
+  <polygon points="14,4 20,10 14,16 8,10" fill="url(#jfxGrad)"/>
+  <polygon points="14,7 17,10 14,13 11,10" fill="#0d1526"/>
+  <text x="26" y="14" font-family="Segoe UI, Verdana, sans-serif" font-size="10.5" fill="#E2E8F0" font-weight="600">JavaFX</text>
+</svg>
