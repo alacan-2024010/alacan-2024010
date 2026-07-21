@@ -36,6 +36,8 @@ Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en entend
 
 <br>
 
+<div align="center">
+
 **Cliente** &nbsp;·&nbsp; interfaz
 <br>
 <img src="https://skillicons.dev/icons?i=react,js,html,css"/>
@@ -57,6 +59,8 @@ Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en entend
 **Taller** &nbsp;·&nbsp; herramientas
 <br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman"/>
+
+</div>
 
 <br><br>
 
