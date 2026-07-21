@@ -16,7 +16,7 @@
 
 <br>
 
-Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en entender el sistema completo: interfaces en React, servicios en Node.js/Spring Boot, y los datos que los sostienen en PostgreSQL y MongoDB. Aprendiendo constantemente Docker y buenas prácticas de arquitectura, con la mira puesta en la práctica supervisada 2026 en **EMPAGUA**.
+Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en full stack: React en el frontend, Node.js/Spring Boot en el backend, y PostgreSQL/MongoDB como capa de datos. Aprendiendo Docker y arquitectura de software día a día, camino a la práctica supervisada 2026 en **EMPAGUA**.
 
 <div align="center">
 
@@ -74,85 +74,99 @@ Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en entend
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td width="72" valign="top"><img src="./assets/icon-kinalbank.svg" width="60"/></td>
-<td valign="top">
+<div align="center">
+<img src="./assets/banner-kinalbank.png" width="55%" alt="KinalBank"/>
 
-**KinalBank** &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
-<br>
-<sub>Sistema bancario con gestión de cuentas y transacciones, manejo de roles y persistencia relacional/no relacional trabajando en conjunto.</sub>
 <br><br>
+
+### KinalBank &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
+
+<sub>Sistema bancario con gestión de cuentas y transacciones, manejo de roles y<br>persistencia relacional/no relacional trabajando en conjunto.</sub>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/React-0d1526?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0d1526?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0d1526?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1526?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+
 <br><br>
+
 **[→ Ver repositorio](https://github.com/alacan-2024010)**
 
-</td>
-</tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td width="72" valign="top"><img src="./assets/icon-gourmet.svg" width="60"/></td>
-<td valign="top">
+</div>
 
-**KinalGourmetHouse** &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
 <br>
-<sub>Plataforma de pedidos y administración para restaurante, con API REST propia y separación clara entre cliente, servidor y capa de datos.</sub>
+
+---
+
+<br>
+
+<div align="center">
+<img src="./assets/banner-gourmet.png" width="55%" alt="KinalGourmetHouse"/>
+
 <br><br>
+
+### KinalGourmetHouse &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
+
+<sub>Plataforma de pedidos y administración para restaurante, con API REST propia<br>y separación clara entre cliente, servidor y capa de datos.</sub>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/React-0d1526?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0d1526?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0d1526?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1526?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+
 <br><br>
+
 **[→ Ver repositorio](https://github.com/alacan-2024010)**
 
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr><td colspan="2" height="20"></td></tr>
-<tr>
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td width="72" valign="top"><img src="./assets/icon-ecoapp.svg" width="60"/></td>
-<td valign="top">
+</div>
 
-**EcoApp** &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
 <br>
-<sub>Aplicación orientada a sostenibilidad y hábitos eco-friendly, con foco en experiencia de usuario y datos persistentes.</sub>
+
+---
+
+<br>
+
+<div align="center">
+<img src="./assets/banner-ecoapp.png" width="55%" alt="EcoApp"/>
+
 <br><br>
+
+### EcoApp &nbsp;<img src="https://img.shields.io/badge/en_equipo-7C3AED?style=flat-square"/>
+
+<sub>Aplicación orientada a sostenibilidad y hábitos eco-friendly, con foco<br>en experiencia de usuario y datos persistentes.</sub>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/React-0d1526?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0d1526?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0d1526?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1526?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+
 <br><br>
+
 **[→ Ver repositorio](https://github.com/alacan-2024010)**
 
-</td>
-</tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td width="72" valign="top"><img src="./assets/icon-huellitas.svg" width="60"/></td>
-<td valign="top">
+</div>
 
-**Huellitas S.A.** &nbsp;<img src="https://img.shields.io/badge/individual-10B981?style=flat-square"/>
 <br>
-<sub>Sistema de gestión de escritorio con generación de reportes dinámicos, enfocado en persistencia y documentos exportables.</sub>
+
+---
+
+<br>
+
+<div align="center">
+<img src="./assets/banner-huellitas.png" width="55%" alt="Huellitas S.A."/>
+
 <br><br>
+
+### Huellitas S.A. &nbsp;<img src="https://img.shields.io/badge/individual-10B981?style=flat-square"/>
+
+<sub>Sistema de gestión de escritorio con generación de reportes dinámicos,<br>enfocado en persistencia y documentos exportables.</sub>
+
+<br><br>
+
 <img src="./assets/badge-javafx.svg"/> <img src="./assets/badge-jasperreports.svg"/> <img src="https://img.shields.io/badge/MySQL-0d1526?style=flat-square&logo=mysql&logoColor=4479A1"/>
+
 <br><br>
+
 **[→ Ver repositorio](https://github.com/alacan-2024010)**
 
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+</div>
 
 <br><br>
 
