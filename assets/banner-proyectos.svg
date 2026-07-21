@@ -20,7 +20,7 @@
   <polygon points="70,60 74,68 67,63" fill="#34D399"/>
 
   <text x="106" y="45" font-family="Segoe UI, sans-serif" font-size="26" font-weight="800" fill="#F1F5F9">Proyectos Destacados</text>
-  <text x="106" y="70" font-family="Segoe UI, sans-serif" font-size="14" fill="#94A3B8">de la idea al repositorio</text>
+  <text x="106" y="72" font-family="Segoe UI, sans-serif" font-size="20" fill="#94A3B8">de la idea al repositorio</text>
 
   <line x1="440" y1="50" x2="1140" y2="50" stroke="#334155" stroke-width="1.5" stroke-dasharray="2 8"/>
   <rect x="1145" y="44" width="12" height="12" rx="3" fill="#7C3AED"/>

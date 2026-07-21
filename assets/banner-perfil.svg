@@ -18,7 +18,7 @@
   <circle cx="64" cy="50" r="3" fill="#0F172A"/>
 
   <text x="106" y="45" font-family="Segoe UI, sans-serif" font-size="26" font-weight="800" fill="#F1F5F9">Sobre mí</text>
-  <text x="106" y="70" font-family="Segoe UI, sans-serif" font-size="14" fill="#94A3B8">quién soy y hacia dónde voy</text>
+  <text x="106" y="72" font-family="Segoe UI, sans-serif" font-size="20" fill="#94A3B8">quién soy y hacia dónde voy</text>
 
   <!-- decorative dashed line -->
   <line x1="380" y1="50" x2="1140" y2="50" stroke="#334155" stroke-width="1.5" stroke-dasharray="2 8"/>

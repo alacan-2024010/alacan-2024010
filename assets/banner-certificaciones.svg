@@ -18,7 +18,7 @@
   <polygon points="58,55 54,68 64,62 74,68 70,55" fill="#A78BFA"/>
 
   <text x="106" y="45" font-family="Segoe UI, sans-serif" font-size="26" font-weight="800" fill="#F1F5F9">Certificaciones</text>
-  <text x="106" y="70" font-family="Segoe UI, sans-serif" font-size="14" fill="#94A3B8">respaldo formal del camino recorrido</text>
+  <text x="106" y="72" font-family="Segoe UI, sans-serif" font-size="20" fill="#94A3B8">respaldo formal del camino recorrido</text>
 
   <line x1="400" y1="50" x2="1140" y2="50" stroke="#334155" stroke-width="1.5" stroke-dasharray="2 8"/>
   <circle cx="1150" cy="50" r="5" fill="#7C3AED"/>

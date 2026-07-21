@@ -18,15 +18,15 @@
   <circle cx="64" cy="49" r="6" fill="#34D399"/>
 
   <text x="106" y="45" font-family="Segoe UI, sans-serif" font-size="26" font-weight="800" fill="#F1F5F9">Stack &amp; Herramientas</text>
-  <text x="106" y="70" font-family="Segoe UI, sans-serif" font-size="14" fill="#94A3B8">de la interfaz al dato, capa por capa</text>
+  <text x="106" y="72" font-family="Segoe UI, sans-serif" font-size="20" fill="#94A3B8">de la interfaz al dato, capa por capa</text>
 
   <!-- decorative nodes -->
   <g stroke="#334155" stroke-width="1.5">
-    <line x1="420" y1="30" x2="470" y2="30"/>
-    <line x1="420" y1="50" x2="500" y2="50"/>
-    <line x1="420" y1="70" x2="460" y2="70"/>
+    <line x1="520" y1="30" x2="570" y2="30"/>
+    <line x1="520" y1="50" x2="600" y2="50"/>
+    <line x1="520" y1="70" x2="560" y2="70"/>
   </g>
-  <circle cx="470" cy="30" r="4" fill="#7C3AED"/>
-  <circle cx="500" cy="50" r="4" fill="#34D399"/>
-  <circle cx="460" cy="70" r="4" fill="#A78BFA"/>
+  <circle cx="570" cy="30" r="4" fill="#7C3AED"/>
+  <circle cx="600" cy="50" r="4" fill="#34D399"/>
+  <circle cx="560" cy="70" r="4" fill="#A78BFA"/>
 </svg>

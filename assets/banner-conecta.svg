@@ -14,12 +14,12 @@
 
   <!-- signal icon -->
   <circle cx="64" cy="50" r="26" fill="#10B981" fill-opacity="0.15" stroke="#34D399" stroke-width="1.5"/>
-  <circle cx="64" cy="50" r="3" fill="#34D399"/>
-  <path d="M56 42 A11 11 0 0 1 72 42" fill="none" stroke="#34D399" stroke-width="2"/>
-  <path d="M52 37 A18 18 0 0 1 76 37" fill="none" stroke="#A78BFA" stroke-width="2"/>
+  <circle cx="64" cy="53" r="3" fill="#34D399"/>
+  <path d="M56 45 A11 11 0 0 1 72 45" fill="none" stroke="#34D399" stroke-width="2"/>
+  <path d="M52 40 A18 18 0 0 1 76 40" fill="none" stroke="#A78BFA" stroke-width="2"/>
 
   <text x="106" y="45" font-family="Segoe UI, sans-serif" font-size="26" font-weight="800" fill="#F1F5F9">Conecta conmigo</text>
-  <text x="106" y="70" font-family="Segoe UI, sans-serif" font-size="14" fill="#94A3B8">hablemos de código, proyectos o ideas</text>
+  <text x="106" y="72" font-family="Segoe UI, sans-serif" font-size="20" fill="#94A3B8">hablemos de código, proyectos o ideas</text>
 
   <line x1="420" y1="50" x2="1140" y2="50" stroke="#334155" stroke-width="1.5" stroke-dasharray="2 8"/>
   <circle cx="1150" cy="50" r="5" fill="#10B981"/>

@@ -160,17 +160,27 @@ Estudiante de **Perito en Informática** en Fundación Kinal, enfocado en entend
 
 <br>
 
-**IT Essentials: PC Hardware and Software**
-<br>
+<div align="center">
+
+### IT Essentials: PC Hardware and Software
+
 <sub>Cisco Networking Academy · Fundación Kinal · 28/08/2024</sub>
 
+<br><br>
+
 Certificación de nivel estudiante que valida competencias en selección e instalación de componentes de computadora, además de configuración de dispositivos para conexión a Internet y servicios en red.
+
+<br>
 
 <a href="./assets/certificados/it-essentials.pdf" target="_blank">
   <img src="./assets/certificados/it-essentials.png" width="80%" alt="Certificado IT Essentials - Cisco Networking Academy"/>
 </a>
 
+<br>
+
 <sub>📄 Clic en la imagen para ver el certificado completo en PDF</sub>
+
+</div>
 
 <br><br>
 
