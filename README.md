@@ -233,7 +233,7 @@ Certificación de nivel estudiante que valida competencias en selección e insta
 <br><br>
 
 <div align="center">
-<img src="./assets/footer-quote.svg" width="70%" alt="Cita final"/>
+<img src="./assets/footer-quote.svg" width="100%" alt="Cita final"/>
 </div>
 
 </div>
